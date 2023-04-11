@@ -1,6 +1,6 @@
 [![author](https://img.shields.io/badge/author-gabrielmartini1-red.svg)](https://www.linkedin.com/in/gabrielmartini1) [![](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/gabrielmartini1/data_science/issues)
 
-# Covid-19_Data_Analysis
+# Credit Card Fraud Detection
 Exploratory Analysis of Covid Data in Brazil
 <br><br><br>
 
