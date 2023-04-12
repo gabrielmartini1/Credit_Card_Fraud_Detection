@@ -15,7 +15,7 @@ An analysis exploratory of credit card detection data in Europe
 
 <p align="justify">O objetivo geral deste estudo é analisar e interpretar dados relacionados ao Covid-19, incluindo a disseminação do vírus em diferentes regiões geográficas e grupos demográficos, a transmissão do vírus e padrões de disseminação, os países com o maior número de casos, mortalidade, testes realizados e vacinações, a relação entre a taxa de casos e a taxa de mortalidade em diferentes países, as políticas de mitigação e as taxas de casos e mortes em diferentes países, a taxa de vacinação e seu impacto na taxa de casos e mortes em diferentes países.</p>
 
-**Palavras-Chave:** Machine Learning; Aprendizado de Máquina; Matriz de Confusão.
+**Palavras-Chave:** Machine Learning; Aprendizado de Máquina; Matriz de Confusão; Algortimo de detecção de anomalias.
 
 <br><br><br>
 
